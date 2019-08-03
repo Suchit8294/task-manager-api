@@ -7,7 +7,7 @@ body:
 {
 "name": "Suchit",
 "email":"kumar.suchit8294@gmail.com", //Should be unique
-"password":"suhi1234!" //Should be atleast 8 character
+"password":"qwerty1234!" //Should be atleast 8 character
 }
 
 POST: - https://suchit-task-manager.herokuapp.com/users/login
